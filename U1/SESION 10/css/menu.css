@@ -1,0 +1,46 @@
+body{
+    font-family: sans-serif;
+    width: 100%;
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/002/960/590/small/abstract-watercolor-texture-wallpaper-background-free-vector.jpg) ;
+    background-size: cover;
+    padding-top: 100px;
+}
+
+
+h1 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(154, 94, 211);
+}
+
+ul{
+    outline: 2px rgb(199, 88, 180);
+    outline-style: solid;
+    list-style: none ;
+    margin: 0;
+    padding-left: 0 ;
+    width: 180px;
+    line-height: 24px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    padding-left: 8px;
+    display: block;
+}
+a:hover{
+    background-color: rgba(129, 16, 133, 0.979);
+}
+a:active{
+    background-color: black;
+    color: white;
+}
+ul li:first-child{
+    background-color:rgb(199, 88, 180) ;
+}
+ul li:first-child a{
+    color: white;
+}
+ul li:first-child a:hover{
+    color: black;
+ }

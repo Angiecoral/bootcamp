@@ -1,0 +1,21 @@
+.tabla{
+    border: 3px gray;
+    border-style: solid ;
+    width: 100px;
+    height: 100px;
+}
+
+.Carol{
+
+    background-color: rgba(230, 202, 81, 0.966);
+    height: 40px;
+} 
+.Información{
+    background-color:  rgba(230, 202, 81, 0.966);
+}
+.Familia{
+    background-color: rgba(230, 202, 81, 0.966);
+}
+.centrar{
+    text-align: center;
+}

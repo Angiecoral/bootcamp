@@ -1,0 +1,17 @@
+h4{
+    color: indigo;
+    background-color: darkcyan;
+    font-size: 50px;
+    font-family:monospace ;
+}
+
+p{
+    color: rgb(35, 199, 199);
+    background-color: rgb(151, 109, 3);
+}
+
+body{ 
+    background-color: purple;
+
+
+}

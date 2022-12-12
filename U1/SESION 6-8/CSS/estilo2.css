@@ -1,0 +1,30 @@
+h3{
+    color: blueviolet;
+    background-color: darkseagreen;
+    text-decoration: overline;  /* line-through , underline, overline , underline overline*/
+}
+
+h1{
+    color:rgb(146, 66, 133) ;
+    background-color: rgb(121, 252, 121);
+}
+
+#parrafo1{
+    color: rgb(11, 41, 41);
+    background-color: rgb(158, 62, 62);
+}
+
+.ejemplo{
+    background-color: rgb(208, 230, 17);
+    width: 500px;
+    height: 500px;
+    
+    border: 20px  rgb(61, 97, 214) ;
+    border-style: solid double groove dotted; /*solid,dotted,double*/
+    margin: 80px;
+    padding: 50px;
+    text-align:center ; /*center, justify,left, right*/ 
+    outline: 20px rgb(16, 158, 201) ;
+    outline-style: dashed ;
+    text-decoration: underline overline;
+}
